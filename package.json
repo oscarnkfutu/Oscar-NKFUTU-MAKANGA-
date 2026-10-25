@@ -1,0 +1,14 @@
+{
+  "name": "oscar-nkfutu-makanga-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio professionnel d'Oscar NKFUTU MAKANGA - Data Manager & Spécialiste en Data Center, Chercheur en Data Science, Développeur Web et Mobile.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"process.exit(0)\""
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
